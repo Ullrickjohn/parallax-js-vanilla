@@ -211,6 +211,7 @@ section .container > *{
     opacity: 0;
 }
 
+
 @media (max-width: 850px){
     section .container{
         grid-template-columns: 1fr;
